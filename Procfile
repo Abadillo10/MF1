@@ -1,0 +1,1 @@
+web: voila tu_cuaderno.ipynb --no-browser --strip_sources
