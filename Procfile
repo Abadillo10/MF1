@@ -1,1 +1,1 @@
-web: voila tu_cuaderno.ipynb --no-browser --strip_sources
+web: MF1.ipynb --no-browser --strip_sources
